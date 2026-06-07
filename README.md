@@ -113,6 +113,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 *Written by Marlena Fabrick — Computer Programming, Fall 2020*
 
 
----
 
-✅ Done with Repo 4! Move on to **REPO5_shipping_charges_UPLOAD_GUIDE.md**
